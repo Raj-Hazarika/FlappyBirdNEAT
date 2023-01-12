@@ -10,3 +10,6 @@ The project would start by generating a population of randomly initialized neura
 The selected networks would then be used to generate new networks through genetic operations such as mutation and crossover, which would introduce new variations and combinations of the networks' parameters. These new networks would then play the game and the process would repeat.
 
 As the generations progress, the AI's performance would improve as it evolves to better handle the game's challenges. Eventually, the AI would become skilled enough to beat the game, and the project would be complete. This project can be used as a benchmark for the game AI and can be used to improve the game experience.
+
+## Demonstration of the NEAT unified FlappyBird game
+[2023-01-11 23-13-12.webm](https://user-images.githubusercontent.com/53789599/211993911-bdb06c17-27a9-4dff-8fa8-71302813b546.webm)
