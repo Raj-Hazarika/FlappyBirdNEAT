@@ -1,5 +1,5 @@
 # FlappyBirdNEAT
-A neural network software to play the game of flappy bird. The algorithm used here is known as NEAT, which stands for NeuroEvolution of Augmenting Topologies.
+A neural network program to play the game of flappy bird. The algorithm used here is known as NEAT, which stands for NeuroEvolution of Augmenting Topologies.
 
 ## About the project
 
